@@ -1,4 +1,4 @@
-# Next.js Fullstack Starter Template
+# Casagenie-AI
 
 A modern fullstack web app boilerplate built using:
 
@@ -25,7 +25,7 @@ A modern fullstack web app boilerplate built using:
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/Vetrivel-VP/nextjs-prisma-postgresssql-shadcn-clerk-starter-template.git
+git clone https://github.com/hy-aurora/Casagenie-AI.git
 ```
 
 ### 2. Install Dependencies with PNPM
